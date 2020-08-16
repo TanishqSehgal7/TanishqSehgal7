@@ -5,7 +5,7 @@
 - 💬 Ask me about Android Application Development and General Programming
 - 😄 Pronouns: Android Developer, Coder, Tech Geek
 - 📫 How to reach me: 
- [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq%20Sehgal-%230077B5?style=flat&logo=Linkedin&logoColor=white&align="right")]("https://www.linkedin.com/in/tanishq-sehgal-a86bbb184")
+ [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq%20Sehgal-%230077B5?style=flat&logo=Linkedin&logoColor=white&align="right")]("https://www.linkedin.com/in/tanishq-sehgal-a86bbb184/")
   [![Gmail Badge](https://img.shields.io/badge/-tsgl7246@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white&align="right")](mailto:tsgl7246@gmail.com)
 
 - :blue_book: My Blog :
