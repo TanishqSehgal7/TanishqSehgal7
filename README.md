@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Application Development using both Kotlin and Java.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
+
 Besides this, I have experience in C/C++, Python and Machine Learning which I did as a part of my college summer training.
 - 🌱 I’m currently exploring new features in android developmemt and their implementation.
 - 👯 I’m looking to collaborate on team projects in the field of Android Development
