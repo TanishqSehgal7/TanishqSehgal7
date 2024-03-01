@@ -1,11 +1,11 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Application Development using both Kotlin and Java.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
 
-Besides this, I have experience in C/C++, Python and Machine Learning which I did as a part of my college summer training.
-- 🌱 I’m currently exploring new features in android developmemt and their implementation.
-- 👯 I’m looking to collaborate on team projects in the field of Android Development
-- 💬 Ask me about Android Application Development and General Programming
-- 😄 Pronouns: Android Developer, Coder, Technology Enthusiast
+Besides this, I have experience in C/C++, Python, and FrontEnd Web Development.
+- 🌱 I’m currently exploring web development, and automation software testing.
+- 👯 I’m looking to collaborate on team projects in the field of Web Development.
+- 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming
+- 😄 Pronouns: Software Developer, Coder, Technology Enthusiast
 - 📫 How to reach me: 
  [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq%20Sehgal-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sehgal-a86bbb184)
   [![Gmail Badge](https://img.shields.io/badge/-tsgl7246@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white&align="right")](mailto:tsgl7246@gmail.com)
