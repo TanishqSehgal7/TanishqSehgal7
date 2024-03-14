@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Application Development using both Kotlin and Java.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
 
-Besides this, I have experience in C/C++, Python, and FrontEnd Web Development.
+Besides this, I have knowledge in C/C++, Python, Javascript, and FrontEnd Web Development.
 - 🌱 I’m currently exploring web development, and automation software testing.
 - 👯 I’m looking to collaborate on team projects in the field of Web Development.
 - 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming
