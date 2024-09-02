@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Android Application Development and Front End Web Development.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
+🔭 I’m currently working on Android Application Development and Front End Web Development.
 
 Besides this, I have knowledge in C/C++, Python, Javascript, and FrontEnd Web Development.
 - 🌱 I’m currently exploring android development, web development, and automation software testing.
