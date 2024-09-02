@@ -1,10 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on Android Application Development using both Kotlin and Java.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
+🔭 I’m currently working on Android Application Development and Front End Web Development.<img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="50px"> 
 
 Besides this, I have knowledge in C/C++, Python, Javascript, and FrontEnd Web Development.
-- 🌱 I’m currently exploring web development, and automation software testing.
-- 👯 I’m looking to collaborate on team projects in the field of Web Development.
-- 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming
+- 🌱 I’m currently exploring android development, web development, and automation software testing.
+- 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming and Automation Testing
 - 😄 Pronouns: Software Developer, Coder, Technology Enthusiast
 - 📫 How to reach me: 
  [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq%20Sehgal-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sehgal-a86bbb184)
