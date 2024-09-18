@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Application Development and Front End Web Development.
 
-Besides this, I have knowledge in C/C++, Python, Javascript, and FrontEnd Web Development.
+Besides this, I have knowledge in C/C++, Python, Javascript, Web Development.
 - 🌱 I’m currently exploring android development, web development, and automation software testing.
 - 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming and Automation Testing
 - 😄 Pronouns: Software Developer, Coder, Technology Enthusiast
