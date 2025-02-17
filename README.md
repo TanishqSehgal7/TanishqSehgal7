@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on Android Application Development and Front End Web Development.
+🔭 I’m currently working on Backend Development with Spring Boot.
 
-Besides this, I have knowledge in C/C++, Python, Javascript, Web Development.
-- 🌱 I’m currently exploring android development, web development, and automation software testing.
-- 💬 Ask me about Android Application Development, FrontEnd Web Development and General Programming and Automation Testing
+I am currently working on Java, Spring Boot, Python and Automation Testing.
+- 🌱 I’m currently exploring GenAI, backend development, and automation software testing.
+- 💬 Ask me about BackEnd Development and General Programming and Automation Testing
 - 😄 Pronouns: Software Developer, Coder, Technology Enthusiast
 - 📫 How to reach me: 
  [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq%20Sehgal-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sehgal-a86bbb184)
